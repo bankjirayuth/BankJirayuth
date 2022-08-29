@@ -1,11 +1,11 @@
 # About me and my passion 👩‍💻
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have a dream to grow up and succeed in software engineer life. Now my specialize is Frontend developer, Interested in Web and Mobile application. development. I'm may not the best programmer. But I'm committed and ready to learn new things all the time.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have a dream of growing up and succeeding in software engineer life. My specialization is Frontend development, interested in Web and Mobile application development. I'm may not the best programmer. But I'm committed and ready to learn new things all the time to succeed in my goal.
 
 # Skills 💻
 * ***Web & Mobile Development*** HTML & CSS, JavaScript, NodeJS & Express in basic CRUD/API
-* ***Coding Language*** Python, C microcontroller, Java, SQL, NoSQL, RPA(UiPath)
-* ***Library and Framework*** HTML & CSS, JavaScript, NodeJS & Express Basi
+* ***Coding Language*** JavaScript, Python, C microcontroller, Java, SQL(MySQL), NoSQL(MongoDB), RPA(UiPath)
+* ***Library and Framework*** 
 * ***Software Engineer Knowledge*** Microservice concept, Requirement Engineer, Agile development life cycle
 * ***Soft skills*** Committed, Positive thinking, Ready to accept mistakes and advice.
 
